@@ -1,0 +1,16 @@
+.img-item {
+  list-style-type: none;
+}
+
+.button {
+  outline: none;
+  cursor: pointer;
+  border-width: 0px;
+}
+
+.img {
+  width: 80px;
+  height: 76px;
+  margin-right: 4px;
+  margin-bottom: 4px;
+}

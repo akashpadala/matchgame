@@ -1,0 +1,42 @@
+.score-card-details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.trophy {
+  width: 200px;
+  margin-top: 100px;
+}
+
+.score-title {
+  color: #ffffff;
+  font-size: 28px;
+  font-weight: 400;
+  font-family: 'Roboto';
+  margin-bottom: 0px;
+}
+
+.scorecard-num {
+  color: #ffffff;
+  font-size: 36px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  margin-top: 10px;
+}
+
+.play-again-btn {
+  background-color: #cf60c8;
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-weight: 300;
+  font-size: 26px;
+  outline: none;
+  cursor: pointer;
+  border-width: 0px;
+  border-radius: 12px;
+  padding: 16px;
+  margin-top: 10px;
+}
